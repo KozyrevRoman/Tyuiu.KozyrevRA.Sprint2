@@ -37,7 +37,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task0.V28
             Console.WriteLine(" X = "+ x);
             Console.WriteLine("*                                                                         *");
             Console.WriteLine(" Y = " + y);
-            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("*                                                                         *"); 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
