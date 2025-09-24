@@ -24,7 +24,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task2.V19
             Console.WriteLine("* Написать программу на, которая запрашивает целые значения с клавиатуры  *");
             Console.WriteLine("* и вычисляет находится ли точка с координатами X,Y в заштрихованной      *");
             Console.WriteLine("* области.                                                                *");
-            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("*                                                                         *"); 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");

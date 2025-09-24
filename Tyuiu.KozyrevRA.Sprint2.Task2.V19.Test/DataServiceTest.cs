@@ -7,7 +7,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task2.V19.Test
         [TestMethod]
         public void TestMethod1()
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
             int x = 3;
             int y = 3;
             bool res = ds.CheckDotInShadedArea(x, y);
