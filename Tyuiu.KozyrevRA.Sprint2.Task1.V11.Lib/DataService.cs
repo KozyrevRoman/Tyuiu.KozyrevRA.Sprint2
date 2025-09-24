@@ -3,7 +3,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task1.V11.Lib
 {
     public class DataService : ISprint2Task1V11
     {
-        public bool[] GetLogicOperations(int a, int b, int c, int d)
+        public bool[] GetLogicOperations(int a, int b, int c, int d) 
         {
             bool[] res = new bool[6];
             res[0] = (a>b)|(c<d);
