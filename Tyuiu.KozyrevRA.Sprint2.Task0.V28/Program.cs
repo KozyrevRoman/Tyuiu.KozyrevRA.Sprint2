@@ -17,7 +17,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task0.V28
             bool[] res = new bool[6];
             res = ds.GetCompareOperations(x, y);
             Console.Title = "Спринт #2 | Выполнил: Козырев Р. А. | СМАРТБ-25-1";
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема:  Операции сравнения                                               *");
             Console.WriteLine("* Задание #0                                                              *");

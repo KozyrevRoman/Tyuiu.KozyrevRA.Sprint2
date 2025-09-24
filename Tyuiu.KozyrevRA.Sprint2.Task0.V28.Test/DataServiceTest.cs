@@ -12,7 +12,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task0.V28.Test
             int y = 735;
             bool[] res = new bool[6];
             res = ds.GetCompareOperations(x, y);
-            bool[] wait = new bool[6] { false, false, false, false, false, false };
+            bool[] wait = new bool[6] { false, false, false, false, false, false }; 
         }
     }
 }
