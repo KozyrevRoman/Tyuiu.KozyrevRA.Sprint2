@@ -18,7 +18,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task4.V28.Test
         public void ValidCondition2()
         {
             DataService ds = new DataService();
-            double x = 10;
+            double x = 10; 
             double y = 1;
             double res = ds.Calculate(x, y);
             double wait = 20.150;

@@ -39,7 +39,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task4.V28
             Console.WriteLine("Введите значение переменной Y: ");
             int y = Convert.ToInt32(Console.ReadLine());
             double res = ds.Calculate(x, y);
-            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("*                                                                         *"); 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
