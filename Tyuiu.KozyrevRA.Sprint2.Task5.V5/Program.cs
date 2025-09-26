@@ -47,7 +47,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task5.V5
                 res = "Эта карта: " + ds.FindCardValue(x);
             }
             Console.WriteLine("*                                                                         *");
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(res);
