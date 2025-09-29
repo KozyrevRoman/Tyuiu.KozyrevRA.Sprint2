@@ -34,7 +34,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task6.V13
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("Введите номера года: ");
             int g = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите номера месяца: ");
+            Console.WriteLine("Введите номера месяца: "); 
             int m = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите номера дня: ");
             int n = Convert.ToInt32(Console.ReadLine());
