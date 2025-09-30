@@ -9,7 +9,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task1.V11.Lib
             res[0] = (a>b)|(c<d);
             res[1] = (a+11!=b)&(c<d);
             res[2] = (a+11>=b)||(c>=d);
-            res[3] = (a!=b+3)&&(c==d);
+            res[3] = (a!=b+3)&&(c==d); 
             res[4] = !(a > b) == (c >= d);
             res[5] = (a > b + 70) ^ (c < d);
             return res;

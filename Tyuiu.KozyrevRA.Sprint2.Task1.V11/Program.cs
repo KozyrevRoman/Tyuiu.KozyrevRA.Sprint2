@@ -20,7 +20,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task1.V11
             res = ds.GetLogicOperations(a, b, c, d);
             Console.Title = "Спринт #2 | Выполнил: Козырев Р. А. | СМАРТБ-25-1";
             Console.WriteLine("***************************************************************************"); 
-            Console.WriteLine("* Спринт #2                                                               *");
+            Console.WriteLine("* Спринт #2                                                               *"); 
             Console.WriteLine("* Тема:  Логические операции                                              *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #11                                                             *");
