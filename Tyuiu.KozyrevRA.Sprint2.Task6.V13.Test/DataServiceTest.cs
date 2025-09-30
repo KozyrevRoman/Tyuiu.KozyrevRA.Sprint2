@@ -5,7 +5,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task6.V13.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidFindDateOfNextDay()
         {
             var ds = new DataService();
             int g =2024;
