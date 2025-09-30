@@ -5,7 +5,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task7.V1.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidCheckDotInShadedArea()
         {
             DataService ds = new DataService();
             double x = 0;

@@ -35,7 +35,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task7.V1
             double y = Convert.ToDouble(Console.ReadLine());
             bool res = ds.CheckDotInShadedArea(x,y);
             Console.WriteLine("*                                                                         *");
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             if (res) Console.WriteLine("Точка находиться в заштрихованное области.");
