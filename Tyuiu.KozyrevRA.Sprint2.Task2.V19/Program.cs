@@ -20,7 +20,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task2.V19
             Console.WriteLine("* Вариант #19                                                             *");
             Console.WriteLine("* Выполнил: Козырев Роман Артёмович | СМАРТБ-25-1                         *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* УСЛОВИЕ:                                                                *");
+            Console.WriteLine("* УСЛОВИЕ:                                                                *"); 
             Console.WriteLine("* Написать программу на, которая запрашивает целые значения с клавиатуры  *");
             Console.WriteLine("* и вычисляет находится ли точка с координатами X,Y в заштрихованной      *");
             Console.WriteLine("* области.                                                                *");
