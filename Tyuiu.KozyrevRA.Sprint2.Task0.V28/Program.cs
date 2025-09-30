@@ -21,7 +21,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task0.V28
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема:  Операции сравнения                                               *");
             Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #28                                                             *");
+            Console.WriteLine("* Вариант #28                                                             *"); 
             Console.WriteLine("* Выполнил: Козырев Роман Артёмович | СМАРТБ-25-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");

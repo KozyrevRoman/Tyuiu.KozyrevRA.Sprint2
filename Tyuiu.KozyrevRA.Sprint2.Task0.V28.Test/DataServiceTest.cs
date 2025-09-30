@@ -5,7 +5,7 @@ namespace Tyuiu.KozyrevRA.Sprint2.Task0.V28.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void VaildGetCompareOperations()
         {
             DataService ds = new DataService();
             int x = 111;
